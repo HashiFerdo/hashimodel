@@ -1,0 +1,13 @@
+pillow
+tensorflow==2.16.1
+blinker
+click
+Flask
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+zipp
+gunicorn
+flask-cors
